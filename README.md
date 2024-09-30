@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md.Shibli Noman</h1>
-<h3 align="center">I am a student at Rajshahi University at Banglasesh</h3>
+<h3 align="center">I am a student at Rajshahi University in Banglasesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadshiblinoman&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadshiblinoman" /> </p>
 
