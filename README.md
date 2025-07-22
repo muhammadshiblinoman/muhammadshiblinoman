@@ -4,13 +4,14 @@
 </h1>
 
 <p align="center">
-  🎓 Student at Government Haji Muhammad Mohsin College, Chattogram  
+  🎓 Student at University of Rajshahi, Rajshahi
   <br/>
   💼 Passionate about Software Development, C Programming, and DBMS  
+  <br/>
+  📚 Currently learning: <strong>Machine Learning (ML)</strong>, <strong>Deep Learning (DL)</strong>, and <strong>Artificial Intelligence (AI)</strong>
   <br/><br/>
-  <a href="https://your_linkedin_url" target="_blank">🌐 LinkedIn</a> |
-  <a href="https://your_codeforces_url" target="_blank">🏆 Codeforces</a> |
-  <a href="mailto:shibli@example.com">📧 Email</a>
+  <a href="https://your_linkedin_url](https://www.linkedin.com/in/muhammad-shibli-34baa9274" target="_blank">🌐 LinkedIn</a> |
+  <a href="muhammadshibli508@gmail.com">📧 Email</a>
 </p>
 
 ---
@@ -20,7 +21,7 @@
 - 👨‍💻 C, C++, Python  
 - 💻 JavaScript, React Native, Firebase  
 - 🌐 HTML, CSS  
-- 🗃️ DBMS, SQL  
+- 🗃️ DBMS, SQL, MongoDB
 - 🔧 Git & GitHub
 
 ---
