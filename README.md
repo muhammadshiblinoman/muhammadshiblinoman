@@ -11,7 +11,6 @@
   📚 Currently learning: <strong>Machine Learning (ML)</strong>, <strong>Deep Learning (DL)</strong>, and <strong>Artificial Intelligence (AI)</strong>
   <br/><br/>
   <a href="https://www.linkedin.com/in/muhammad-shibli-34baa9274" target="_blank">🌐 LinkedIn</a> |
-  <a href="muhammadshibli508@gmail.com">📧 Email</a>
 </p>
 
 ---
