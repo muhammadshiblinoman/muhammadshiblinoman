@@ -1,15 +1,7 @@
 <!-- Animated name using HTML -->
 <h1 align="center">
-  <span style="display: inline-block; animation: move 8s linear infinite;">
-    👋 Hi, I'm Muhammad Shibli
-  </span>
+  <marquee behavior="scroll" direction="left">👋 Hi, I'm Muhammad Shibli</marquee>
 </h1>
-<style>
-@keyframes move {
-  0% { transform: translateX(-100%); }
-  50% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
 </style>
 <p align="center">
   🎓 Student at University of Rajshahi, Rajshahi
