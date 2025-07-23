@@ -1,6 +1,8 @@
 <!-- Animated name using HTML -->
 <h1 align="center">
-  <marquee behavior="scroll" direction="left">👋 Hi, I'm Muhammad Shibli</marquee>
+  <span style="display: inline-block; animation: move 8s linear infinite;">
+    👋 Hi, I'm Muhammad Shibli
+  </span>
 </h1>
 
 <p align="center">
