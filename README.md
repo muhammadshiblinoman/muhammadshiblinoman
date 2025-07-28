@@ -2,7 +2,6 @@
 <h1 align="center">
   <marquee behavior="scroll" direction="left">👋 Hi, I'm Muhammad Shibli</marquee>
 </h1>
-</style>
 <p align="center">
   🎓 Student at University of Rajshahi, Rajshahi
   <br/>
