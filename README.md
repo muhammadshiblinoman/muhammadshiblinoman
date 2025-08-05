@@ -1,37 +1,58 @@
+<!-- Animated name using HTML -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there+👋+I'm+Shibli+Noman;Third+Year+Student+at+University+of+Rajshahi;" alt="Typing SVG">
+  <marquee behavior="scroll" direction="left">👋 Hi, I'm Muhammad Shibli</marquee>
 </h1>
 
----
-
-## 🧑‍💻 About Me
-
-🎓 Third Year Student, Department of Computer Science & Engineering,  
-📍 University of Rajshahi, Rajshahi, Bangladesh.
- 
-
-💻 **Currently Working On:**  
-- Deep Learning  
-- Machine Learning  
-- Artificial Intelligence  
-
-⚙️ **Problem Solver:**  
-- Solved **1000+ problems** across platforms like Codeforces & Leetcode  
-
-📬 **Reach me at:**  
-📧 muhammadshibli508@gmail.com
-
----
-
-## 📝 Published Papers
-
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-shibli-34baa9274" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"></a>
-  &nbsp;
-  <a href="https://www.facebook.com/mn.shibli.sarkar" target="_blank"><img alt="Facebook" title="Facebook" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg"></a>
-  &nbsp;
+<p align="center">
+  🎓 Student at Government Haji Muhammad Mohsin College, Chattogram  
+  <br/>
+  💼 Passionate about Software Development, C Programming, and DBMS  
+  <br/>
+  📚 Currently learning: <strong>Machine Learning (ML)</strong>, <strong>Deep Learning (DL)</strong>, and <strong>Artificial Intelligence (AI)</strong>
+  <br/><br/>
+  <a href="https://your_linkedin_url" target="_blank">🌐 LinkedIn</a> |
+  <a href="https://your_codeforces_url" target="_blank">🏆 Codeforces</a> |
+  <a href="mailto:shibli@example.com">📧 Email</a>
 </p>
 
+---
+
+### 🛠️ Skills
+
+- 👨‍💻 C, C++, Python  
+- 💻 JavaScript, React Native, Firebase  
+- 🌐 HTML, CSS  
+- 🧠 ML, DL, AI (Learning)  
+- 🗃️ DBMS, SQL  
+- 🔧 Git & GitHub
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadshibli&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshibli&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammadshibli&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Visitor Count
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=muhammadshibli.muhammadshibli" alt="Visitor Count" />
+</p>
+
+---
+
+### ✨ Quote
+
+> _"Strive not to be a success, but rather to be of value." – Albert Einstein_
