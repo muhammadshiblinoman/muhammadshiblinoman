@@ -38,12 +38,6 @@
 
 ---
 
-### 📈 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=muhammadshibli&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 ### ✨ Quote
 
 > _"Strive not to be a success, but rather to be of value." – Albert Einstein_
