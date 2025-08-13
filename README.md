@@ -35,13 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshibli&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
