@@ -40,7 +40,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadshibli&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=USERNAME&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
