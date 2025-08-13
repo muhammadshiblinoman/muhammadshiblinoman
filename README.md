@@ -47,9 +47,7 @@
 
 ### 📈 Visitor Count
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=muhammadshibli.muhammadshibli" alt="Visitor Count" />
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=muhammadshibli&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
