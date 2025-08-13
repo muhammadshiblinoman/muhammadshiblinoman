@@ -4,9 +4,9 @@
 </h1>
 
 <p align="center">
-  🎓 Student at Government Haji Muhammad Mohsin College, Chattogram  
+  🎓 Student at University of Rajshahi, Rajshahi 
   <br/>
-  💼 Passionate about Software Development, C Programming, and DBMS  
+  💼 Passionate about Software Development, C++ Programming, and DBMS  
   <br/>
   📚 Currently learning: <strong>Machine Learning (ML)</strong>, <strong>Deep Learning (DL)</strong>, and <strong>Artificial Intelligence (AI)</strong>
   <br/><br/>
